@@ -1,0 +1,8 @@
+1338940194
+Application	R:/rails/shopifyRental3/config/application.rb	  class Application 
+ApplicationController	R:/rails/shopifyRental3/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	R:/rails/shopifyRental3/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	R:/rails/shopifyRental3/test/performance/browsing_test.rb	class BrowsingTest 
+ShopifyRental3	R:/rails/shopifyRental3/config/application.rb	module ShopifyRental3
+TestCase	R:/rails/shopifyRental3/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	R:/rails/shopifyRental3/test/performance/browsing_test.rb	  def test_homepage
