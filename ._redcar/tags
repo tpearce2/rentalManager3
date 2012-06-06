@@ -1,8 +1,21 @@
-1338942048
+1338942779
 Application	R:/rails/shopifyRental3/config/application.rb	  class Application 
 ApplicationController	R:/rails/shopifyRental3/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	R:/rails/shopifyRental3/app/helpers/application_helper.rb	module ApplicationHelper
 BrowsingTest	R:/rails/shopifyRental3/test/performance/browsing_test.rb	class BrowsingTest 
+HomeController	R:/rails/shopifyRental3/app/controllers/home_controller.rb	class HomeController 
+HomeHelper	R:/rails/shopifyRental3/app/helpers/home_helper.rb	module HomeHelper
+LoginController	R:/rails/shopifyRental3/app/controllers/login_controller.rb	class LoginController 
+LoginHelper	R:/rails/shopifyRental3/app/helpers/login_helper.rb	module LoginHelper 
 ShopifyRental3	R:/rails/shopifyRental3/config/application.rb	module ShopifyRental3
+TabsHelper	R:/rails/shopifyRental3/app/helpers/tabs_helper.rb	module TabsHelper
 TestCase	R:/rails/shopifyRental3/test/test_helper.rb	class ActiveSupport::TestCase
+active_nav_class	R:/rails/shopifyRental3/app/helpers/tabs_helper.rb	  def active_nav_class(name, action = nil)
+authenticate	R:/rails/shopifyRental3/app/controllers/login_controller.rb	  def authenticate
+finalize	R:/rails/shopifyRental3/app/controllers/login_controller.rb	  def finalize
+index	R:/rails/shopifyRental3/app/controllers/login_controller.rb	  def index
+index	R:/rails/shopifyRental3/app/controllers/home_controller.rb	  def index
+logout	R:/rails/shopifyRental3/app/controllers/login_controller.rb	  def logout
+return_address	R:/rails/shopifyRental3/app/controllers/login_controller.rb	  def return_address
 test_homepage	R:/rails/shopifyRental3/test/performance/browsing_test.rb	  def test_homepage
+welcome	R:/rails/shopifyRental3/app/controllers/home_controller.rb	  def welcome

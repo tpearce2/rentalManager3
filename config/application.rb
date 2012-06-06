@@ -11,6 +11,11 @@ end
 
 module ShopifyRental3
   class Application < Rails::Application
+    
+    # Shopify API connection credentials:
+    config.shopify.api_key = "f03e259b962263817f1f0a9df0c30477"
+    config.shopify.secret = "8554d06a2e5ef3536ecb7ab5cb025635"
+    
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
