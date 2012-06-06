@@ -23,6 +23,7 @@ end
 
 gem 'jquery-rails'
 gem 'shopify_app'
+#test add
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

@@ -1,4 +1,4 @@
-1338940194
+1338942048
 Application	R:/rails/shopifyRental3/config/application.rb	  class Application 
 ApplicationController	R:/rails/shopifyRental3/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	R:/rails/shopifyRental3/app/helpers/application_helper.rb	module ApplicationHelper
